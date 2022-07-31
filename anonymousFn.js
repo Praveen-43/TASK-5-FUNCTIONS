@@ -9,6 +9,13 @@ var odd= function() {
         }
     }
 }
+
+// const odd = function() {
+//     const a=[1,2,3,4,5,6].filter(num => num % 2 !== 0)
+//     return a;
+// }
+// console.log(odd().join(', '))
+
 odd()
 
 
